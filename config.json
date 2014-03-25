@@ -1,0 +1,7 @@
+{
+  "riak": {
+    "topology": {
+      "node-head": "host.example.com"
+    }
+  }
+}
