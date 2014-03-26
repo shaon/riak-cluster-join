@@ -1,4 +1,4 @@
-node_head = node["riak"]["topology"]["node-head"]
+node_head = node["riak_cluster_join"]["node-head"]
 
 execute "join-cluster" do
   command "riak-admin cluster join riak@#{node_head}"

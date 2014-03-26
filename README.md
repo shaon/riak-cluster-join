@@ -1,4 +1,4 @@
-riak-join-nodes
-===============
+riak-cluster-join
+=================
 
-chef cookbook for joining riak nodes
+chef cookbook for joining riak nodes to cluster

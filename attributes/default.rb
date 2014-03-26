@@ -1,1 +1,1 @@
-default["riak_join"]["node-head"] = ""
+default["riak_cluster_join"]["node-head"] = ""
